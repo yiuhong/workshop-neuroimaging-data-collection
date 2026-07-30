@@ -1,2 +1,2 @@
-# workshop-neuroimaging-data-collection
-Materials and files for the 'Neuroimaging Data Collection with fNIRS and EEG' workshop.
+# Neuroimaging Data Collection with fNIRS and EEG (2026) 🧠
+Welcome to the official repository for the workshop! This repository contains all the slides and data files needed for the workshop.
